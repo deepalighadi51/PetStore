@@ -1,2 +1,2 @@
 # PetStore
-E-COommerce Website for Pet Developed using Django Framework 
+E-Commerce Website for Pet Developed using Django Framework 
